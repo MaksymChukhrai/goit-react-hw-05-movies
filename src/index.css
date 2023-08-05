@@ -13,7 +13,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-p {
+p,li {
   text-decoration: none;
   list-style: none;
   margin: 0;
